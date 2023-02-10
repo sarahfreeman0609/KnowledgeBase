@@ -14,3 +14,6 @@
 
 - Homebrew
   https://brew.sh/
+
+- Crash course on Shell
+  https://www.shellscript.sh/
