@@ -1,4 +1,17 @@
-# Java install on Mac
+# Java
+
+### Random notes
+- See all installed versions of java
+````
+/urs/libexec/java_home -V
+````
+
+- Switch to desired java version
+````
+export JAVA_HOME='usr/llibexec/java_home/ -v 1.8'
+````
+
+### Java install on Mac
 
 1. Install java
 ````
