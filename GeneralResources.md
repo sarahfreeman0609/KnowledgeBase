@@ -17,3 +17,9 @@
 
 - Crash course on Shell
   https://www.shellscript.sh/
+
+- Markdown syntax
+  https://www.markdownguide.org/basic-syntax/
+
+- Splunk official Trainings
+  https://www.splunk.com/en_us/training/free-courses/overview.html
