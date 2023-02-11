@@ -23,3 +23,8 @@
 
 - Splunk official Trainings
   https://www.splunk.com/en_us/training/free-courses/overview.html
+
+- Clean coding
+  https://refactoring.guru/
+
+- Dev Journal
