@@ -41,3 +41,8 @@ mvn dependency:tree
 ````
 mvn clean install -U
 ````
+
+### Build jar
+````
+mvn package
+````
