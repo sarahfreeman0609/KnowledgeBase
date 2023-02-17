@@ -49,3 +49,6 @@ git push -u origin main (or master)
 git checkout OLD_BRANCH_NAME
 git branch -m NEW_BRANCH_NAME
 ````
+
+### Git command generation tool
+https://www.gitmecmd.xyz/
