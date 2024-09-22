@@ -33,4 +33,19 @@ $ sudo apt remove intellij
 or to uninstall with related configs
 $ sudo apt remove --purge intellij
 
+### Install Intellij IDEA from terminal
+
+Install
+$ $ sudo snap install intellij-idea-community --classic
+OR
+$ sudo snap install intellij-idea-ultimate --classic
+OR
+$ sudo snap install intellij-idea-educational --classic
+
+Run
+$ intellij-idea-community
+OR
+$ intellij-idea-ultimate
+OR
+$ intellij-idea-educational
 
