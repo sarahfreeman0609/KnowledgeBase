@@ -49,3 +49,6 @@ $ intellij-idea-ultimate
 OR
 $ intellij-idea-educational
 
+### Open pdf's from terminal
+$ xdg-open /path/to/your/file.pdf
+
