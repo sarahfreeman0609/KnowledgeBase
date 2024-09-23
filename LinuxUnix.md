@@ -52,3 +52,8 @@ $ intellij-idea-educational
 ### Open pdf's from terminal
 $ xdg-open /path/to/your/file.pdf
 
+### Rename terminal tab
+
+$ echo -ne "\033]0;New Tab Name\007"
+
+
