@@ -1,14 +1,20 @@
 # Java
 
 ### Random notes
-- See all installed versions of java
+- See all installed versions of java (on MacOS)
 ````
 /urs/libexec/java_home -V
 ````
 
-- Switch to desired java version
+- Switch to desired java version (on MacOS)
 ````
 export JAVA_HOME='usr/llibexec/java_home/ -v 1.8'
+````
+
+- See all installed versions of Java and select which one to run (On Linux)
+````
+$ update-alternatives --config java
+$ java -version
 ````
 
 ### Java install on Mac
