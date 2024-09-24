@@ -27,4 +27,5 @@
 - Clean coding
   https://refactoring.guru/
 
-- Dev Journal
+- Software Architecture
+  https://www.developertoarchitect.com/
