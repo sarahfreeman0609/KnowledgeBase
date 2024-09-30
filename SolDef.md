@@ -19,3 +19,8 @@
 - UML diagrams doc
 
   https://www.uml-diagrams.org/
+
+
+- Documentation and executables in one place (Python)
+
+  https://jupyter.org/
