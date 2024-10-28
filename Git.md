@@ -1,5 +1,13 @@
 # Git
 
+### SSH key set up
+1. Generate ssh key
+````
+ssh-keygen -t ed25519 -C "sahar.aghayeva@gmail.com
+````
+It will generate the pair of private `/home/sahar/.ssh/id_ed25519` and public `/home/sahar/.ssh/id_ed25519.pub`keys 
+2. Copy contents of public key `/home/sahar/.ssh/id_ed25519.pub` and create SSH key based on that on your github settings https://github.com/settings/keys
+
 ### Tagging
 ````
 git tag -a 0.0.1 COMMIT_HASH
