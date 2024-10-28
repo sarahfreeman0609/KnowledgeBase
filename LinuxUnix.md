@@ -74,3 +74,22 @@ $ xdg-open /path/to/your/file.pdf
 $ echo -ne "\033]0;New Tab Name\007"
 ````
 
+### Create shortcuts for complicated parametrized terminal commands
+1. Create a new script file in a directory within your PATH (like /usr/local/bin)
+````
+sudo vim your_shortcut_command
+````
+2. Fill the content of your complicated command (in our example it is terminal tab rename)
+````
+#!/bin/bash
+echo -ne "\033]0;$1\007"
+````
+3. Make the script executable
+````
+sudo chmod +x /usr/local/bin/your_shortcut_command
+````
+4. Run you newly created command
+````
+your_shortcut_command param1
+````
+
